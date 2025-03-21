@@ -1,0 +1,12 @@
+backtrader>=1.9.78.123
+matplotlib>=3.7.1
+pandas>=2.0.3
+numpy>=1.24.3
+yfinance>=0.2.28
+ipykernel>=6.25.0
+jupyter>=1.0.0
+pytest>=7.4.0
+pytest-bdd>=7.0.0
+behave>=1.2.6
+allure-behave>=2.13.5
+coverage>=7.0.0

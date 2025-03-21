@@ -1,0 +1,12 @@
+# .coveragerc
+[run]
+# Measure coverage only for code under the "trading" package:
+source = trading
+
+# Exclude some lines/patterns (optional)
+omit =
+    */__init__.py
+
+[report]
+# Show missing lines of code
+show_missing = True

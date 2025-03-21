@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Pytest & coverage
+htmlcov/
+.coverage
+.cache/
+
+# Data, logs, reports — tracked as empty folders
+data/
+logs/
+reports/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
